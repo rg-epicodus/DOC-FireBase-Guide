@@ -1,6 +1,6 @@
 # Firebase Information
 
-  Welcome tot he repository for hints about using the Firebase application from Google.  This is a project to help coallate useful hints and information about certain aspects of using the application.  Please let me know if you have any hints or ideas for addition via the [Contributing](#contributing) area below.  Thank you.
+  Welcome to the repository for hints about using the Firebase application from Google.  This is a project to help coallate useful hints and information about certain aspects of using the Firebase application.  Please let me know if you have any hints or ideas for addition via the [Contributing](#contributing) area below.  Thank you.
 
 
 Table of contents
