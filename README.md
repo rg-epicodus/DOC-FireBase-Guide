@@ -1,14 +1,14 @@
 # Firebase Info
 
 Repository for Information about Firebase
-<pre><code>
+
   1.  Select your project in the [Firebase Console](https://firebase.google.com/)
   2.  In the top left, next to the project name, click the settings/gear wheel icon
   3.  Click Permissions
   4.  In the Google Developer Console click ![firebase pic](./img/firebasepic01.png)
   5.  Enter the name/email of the user to add and select the role
   6.  Click "Add"
-</code></pre>
+
 
 Table of contents
 =================
