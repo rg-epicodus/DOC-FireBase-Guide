@@ -6,8 +6,10 @@ Repository for Information about Firebase
   2.  In the top left, next to the project name, click the settings/gear wheel icon
   3.  Click "Users and permissions" ![firebase main pic](./img/ss01.png)
   4.  In the Google Developer Console click ![firebase pic](./img/firebasepic01.png)
-  5.  Enter the name/email of the user to add and select the role
+  5.  Enter the name/email of the user to add and select the role ![firebase permission pic](./img/ss02.png)
   6.  Click "Add"
+  7.  User likely will not get an email, but they just need to log in to their Firebase and project will populate.  API keys will be set per project and all collaborators share the same API for that project.
+  8.  Now go save the World.
 
 
 Table of contents
