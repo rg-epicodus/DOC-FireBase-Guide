@@ -1,6 +1,27 @@
+# Firebase Information
+
+Table of contents
+=================
+
+  * [Table of contents](#table-of-contents)
+  * [Firebase Info](#firebase-info)
+    * [Documentation](#documentation)
+    * [Adding Collaborators](#add-collaborators)
+  * [Installation](#installation)
+  * [Specifications](#specifications)
+  * [Known Bugs](#known-bugs)
+  * [Contributing](#contributing)
+  * [License](#license)
+
 # Firebase Info
 
-Repository for Information about Firebase
+  Repository for Information about Firebase
+### Documentation
+
+  To see the full Firebase documentation, please visit: [Firebase](https://firebase.google.com/docs/)
+
+
+### Adding Collaborators
 
   1.  Select your project in the [Firebase Console](https://firebase.google.com/)
   2.  In the top left, next to the project name, click the settings/gear wheel icon
@@ -10,19 +31,6 @@ Repository for Information about Firebase
   6.  Click "Add"
   7.  User likely will not get an email, but they just need to log in to their Firebase and project will populate.  API keys will be set per project and all collaborators share the same API for that project.
   8.  Now go save the World.
-
-
-Table of contents
-=================
-
-  * [Firebase Info](#firebase-info)
-    * [Firebase Documentation](https://firebase.google.com/docs/)
-  * [Table of contents](#table-of-contents)
-  * [Installation](#installation)
-  * [Specifications](#specifications)
-  * [Known Bugs](#known-bugs)
-  * [Contributing](#contributing)
-  * [License](#license)
 
 
 ## Installation
