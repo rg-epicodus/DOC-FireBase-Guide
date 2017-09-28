@@ -1,5 +1,8 @@
 # Firebase Information
 
+  Welcome tot he repository for hints about using the Firebase application from Google.  This is a project to help coallate useful hints and information about certain aspects of using the application.  Please let me know if you have any hints or ideas for addition via the [Contributing](#contributing) area below.  Thank you.
+
+
 Table of contents
 =================
 
@@ -13,9 +16,10 @@ Table of contents
   * [Contributing](#contributing)
   * [License](#license)
 
-# Firebase Info
+### Firebase Info
 
   Repository for Information about Firebase
+
 ### Documentation
 
   To see the full Firebase documentation, please visit: [Firebase](https://firebase.google.com/docs/)
@@ -42,11 +46,14 @@ No installation process is required for this.  It is only informational.
 This is just a simple README for some basic Firebase information
 
 ## Known Bugs
+
 * "Rich Garrick" <richg341@gmail.com>
 
 ## Contributing
 
-1. Fork it!
+If you would like to contribute tot he Firebase user hints repository please do the following:
+
+1. Fork this project.
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
